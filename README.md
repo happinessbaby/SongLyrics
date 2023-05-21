@@ -67,6 +67,11 @@ Maybe having once had dreams is what defines youth.
 #### Here's another example, where ChatGPT translated the same lyrics differently on 2 occasions. 
 - In the first translation it was prompted to translate a Chinese song preserving the original tone and meaning
 - In the second translation, it was simply asked for translate a Chinese song.
+- A short summary it generated: 
+  - Overall, this song conveys a message of self-discovery, longing, and the intensity of emotions experienced in relationships, emphasizing the importance of embracing life's complexities and cherishing genuine connections.
+
 ![first translation](https://github.com/happinessbaby/SongLyrics/blob/main/images/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AEv1.png)
 
 ![second translation](https://github.com/happinessbaby/SongLyrics/blob/main/images/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AEv2.png)
+
+[song link](https://www.youtube.com/watch?v=U-BU9OSbpnE)
