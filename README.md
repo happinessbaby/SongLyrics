@@ -67,3 +67,6 @@ Maybe having once had dreams is what defines youth.
 #### Here's another example, where ChatGPT translated the same lyrics differently on 2 occasions. 
 - In the first translation it was prompted to translate a Chinese song preserving the original tone and meaning
 - In the second translation, it was simply asked for translate a Chinese song.
+![first translation](https://github.com/happinessbaby/SongLyrics/blob/main/images/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AEv1.png)
+
+![second translation](https://github.com/happinessbaby/SongLyrics/blob/main/images/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AEv2.png)
