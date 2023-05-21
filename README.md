@@ -38,33 +38,32 @@ Maybe the sunshine in the south shines upon the wind in the north
 Maybe time is blown away, leaving no trace behind
 Maybe the story only leaves behind one unforgettable person
 Maybe in last night's dream, still laughing with innocence
-
 Maybe in Beijing's Houhai, there are many wandering souls
 Maybe in Chengdu's small tavern, there are lonely individuals
 Maybe a smile by your pillow can warm your morning
 Maybe the night sky has shooting stars to guide your way
-
 Maybe on Xi'an's city wall, someone pledges to never separate
 Maybe it takes going to Dali to truly love sincerely
 Maybe someone said they would accompany you and walk through a lifetime
 Maybe tears flow with a smile at a certain moment in time
-
 Maybe there are fishing boats in Guilin, lighting your way when lost
 Maybe on the grasslands of Hulun, cattle and sheep become a scenery
 Maybe never again can you find someone willing to believe
 Maybe only after wandering can your steps become firm
-
 Maybe on Wudang Mountain's path, someone devoutly climbs
 Maybe in the alleys of Zhouzhuang, suddenly forgetting the passing years
 Maybe it takes many years to truly understand what once was
 Maybe there were gentle eyes beside you at that time
-
 Maybe on Xi'an's city wall, someone pledges to never separate
 Maybe it takes going to Dali to truly love sincerely
 Maybe someone said they would accompany you and walk through a lifetime
 Maybe tears flow with a smile
-
 Maybe one day, you happen to encounter love
 Maybe forever on the road, someone struggles and moves forward
 Maybe all possibilities rely on belief
 Maybe having once had dreams is what defines youth.
+
+
+#### Here's another example, where ChatGPT translated the same lyrics differently on 2 occasions. 
+- In the first translation it was prompted to translate a Chinese song preserving the original tone and meaning
+- In the second translation, it was simply asked for translate a Chinese song.
