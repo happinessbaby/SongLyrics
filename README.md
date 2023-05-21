@@ -1,7 +1,7 @@
 # LLM for translating song lyrics and provide meaning
 
-## [link to a sample Chinese song](https://www.youtube.com/watch?v=sedn8HYufeg&list=RDb1jiuT1H1fI&index=3)
-- when asked to give the meaning of the song in less than 50 words: This song explores possibilities and experiences in love and life, reflecting on memories, companionship, and personal growth. It emphasizes the significance of believing in possibilities, cherishing moments, and embracing the journey of self-discovery.
+#### [link to a sample Chinese song](https://www.youtube.com/watch?v=sedn8HYufeg&list=RDb1jiuT1H1fI&index=3)
+When asked to give the meaning of the song in less than 50 words: This song explores possibilities and experiences in love and life, reflecting on memories, companionship, and personal growth. It emphasizes the significance of believing in possibilities, cherishing moments, and embracing the journey of self-discovery.
 
 #### original lyrics: 
 可能南方的阳光 照着北方的风
