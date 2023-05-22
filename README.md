@@ -80,7 +80,7 @@ Maybe having once had dreams is what defines youth.
 
 ### How this works
 #### Chat with a lyricsBot to understand a song!
-- preliminary step: for Youtube, retrieve the transcript 
-- api: prompting llm (may need fine-tuning too?) to answer lyrics related questions, would be better if music is explanable too
-- when a song is uploaded, some atmospheric image is generated for an immersive ui experience, this could be done by ai too
-=
+- audio to text: does ai translate songs well? if not, will need to ask user to upload the lyrics  (not convenient enough)  
+- llm: prompting (may need fine-tuning too?) to answer lyrics related questions, would be better if music is explanable too
+- text/audio to image: when a song is uploaded, some atmospheric image is generated for an immersive ui experience, this could be done by ai too
+
