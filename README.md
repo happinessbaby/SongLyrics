@@ -70,3 +70,11 @@ Maybe having once had dreams is what defines youth.
 ![first translation](https://github.com/happinessbaby/SongLyrics/blob/main/images/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AEv1.png)
 
 ![second translation](https://github.com/happinessbaby/SongLyrics/blob/main/images/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AEv2.png)
+
+
+
+### How this works
+#### Chat with a lyricsBot to understand a song!
+- preliminary step: for Youtube, retrieve the transcript 
+- api: prompting llm (may need fine-tuning too?) to answer lyrics related questions, would be better if music is explanable too
+- when a song is uploaded, some atmospheric image is generated for an immersive ui experience, this could be done by ai too
