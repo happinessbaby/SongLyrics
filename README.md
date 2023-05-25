@@ -78,7 +78,7 @@ Maybe having once had dreams is what defines youth.
 [song link](https://www.youtube.com/watch?v=U-BU9OSbpnE)
 
 
-#### This one is translated really well with zero-shot learning
+#### This is another one done really well with zero-shot learning
 [song link](https://www.youtube.com/watch?v=LHwGSeHvRVo&list=LL&index=20)
 
 烽煙把 霜雪敲落
