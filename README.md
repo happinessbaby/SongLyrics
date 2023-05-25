@@ -67,6 +67,7 @@ Maybe having once had dreams is what defines youth.
 #### Here's another example, where ChatGPT translated the same lyrics differently on 2 occasions. 
 - In the first translation it was prompted to translate a Chinese song preserving the original tone and meaning
 - In the second translation, it was simply asked for translate a Chinese song.
+- All of these tranlsations are done with zero-shot learning
 - A short summary it generated: 
   - Overall, this song conveys a message of self-discovery, longing, and the intensity of emotions experienced in relationships, emphasizing the importance of embracing life's complexities and cherishing genuine connections.
 
@@ -77,7 +78,7 @@ Maybe having once had dreams is what defines youth.
 [song link](https://www.youtube.com/watch?v=U-BU9OSbpnE)
 
 
-#### This is another one that's just too good
+#### This one is translated really well with zero-shot learning
 [song link](https://www.youtube.com/watch?v=LHwGSeHvRVo&list=LL&index=20)
 
 烽煙把 霜雪敲落
