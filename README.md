@@ -128,6 +128,42 @@ With sincerity, we shine in the realm of the ordinary,
 Glowing brightly, a beacon in the vast sanctuary.
 
 
+#### This is Miley's song Flowers translated into Chinese
+
+我们曾经美好，我们曾经辉煌
+一种无法出售的梦想
+我们曾经正确，直到不再
+建造一个家园，看着它燃烧
+嗯，我不想离开你
+我不想撒谎
+开始哭泣，但是我记得
+我可以给自己买花
+在沙滩上写下我的名字
+和自己对话几个小时
+说些你无法理解的事情
+我可以自己去跳舞
+我可以牵着自己的手
+是的，我可以比你更好地爱自己
+可以更好地爱自己
+我可以更好地爱自己，宝贝
+可以更好地爱自己
+我可以更好地爱自己，宝贝
+涂上樱桃红的指甲
+与你留下的玫瑰相配
+没有懊悔，没有后悔
+我原谅你说的每个字
+噢，宝贝，我不想离开你
+我不想争吵
+开始哭泣，但是我记得
+我可以给自己买花
+在沙滩上写下我的名字
+和自己对话几个小时
+说些你无法理解的事情
+我可以自己去跳舞
+我可以牵着自己的手
+是的，我可以比你更好地爱自己
+
+
 
 ### How this works
 #### Chat with a lyricsBot to understand a song!
