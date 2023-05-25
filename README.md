@@ -77,6 +77,57 @@ Maybe having once had dreams is what defines youth.
 [song link](https://www.youtube.com/watch?v=U-BU9OSbpnE)
 
 
+#### This is another one that's just too good
+[song link](https://www.youtube.com/watch?v=LHwGSeHvRVo&list=LL&index=20)
+
+烽煙把 霜雪敲落
+輕覆過 往日沉屙
+你背著光 眸中有星河
+我哼著歌 日月應我
+沒入眉心的燦爛 被塵埃熄滅又燃
+峽天昆侖和彼岸 為誰而撼
+滄海 醒過來 多少碑林似山脈
+廊燈下 有微詞 窄門亦關不住心懷
+生平 苦與難 作談資 指點未來
+你我將會同在 一片人海 
+以炙熱 得天厚愛
+路深處 好夢眷顧
+願我 不孤飛 不輕落
+與你擦肩的一瞬 有星子被風點燃
+燒過文明和霄漢 聲如呐喊
+生死 于人寰 有志者幸甚至哉
+千秋夢 明月台 除君外無人可完滿
+一年 又一年 聚和散 仍有怦然
+你我將會同在 一片星海 
+以赤誠 閃耀平凡
+閃耀平凡
+
+Amidst the flames, frost and snow descend,
+Gently covering the days gone by, fading and spent.
+You carry the light, with a galaxy in your eyes,
+I hum a song, the sun and moon respond to my cries.
+The brilliance engraved upon my brow, dimmed and aflame,
+Between the Xiatian Kunlun and the other shore, who shall it claim?
+Awaken, vast sea, how many monuments akin to mountains,
+Beneath the corridor's lamp, whispered words resound like fountains.
+Narrow doors cannot contain the aspirations of the heart,
+Life's hardships and challenges become our conversation's art.
+You and I will be together amidst the ocean of people,
+With fervent love and bountiful blessings that are ample.
+Deep within the journey, dreams favor our path,
+May I not fly alone, nor descend with a light-hearted laugh.
+In the fleeting moment as we brush shoulders,
+Stars are ignited by the wind, leaving boulders.
+We've burned through civilizations and the celestial expanse,
+Our voices akin to shouts, in a cosmic dance.
+Life and death in this mortal realm, fortunate are those with ambitions,
+Eternal dreams on the Moon Terrace, none but you completes my visions.
+Year after year, gatherings and partings, still it ignites our hearts,
+You and I will be together amidst the stellar expanse, where unity imparts.
+With sincerity, we shine in the realm of the ordinary,
+Glowing brightly, a beacon in the vast sanctuary.
+
+
 
 ### How this works
 #### Chat with a lyricsBot to understand a song!
